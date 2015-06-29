@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+    
+    <Button 
+        android:id="@+id/btnScreenOn"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Ukljuci ekran"
+        />
+    <Button
+        android:id="@+id/btnPlayPause"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Play/Pause"
+        />
+    <Button 
+        android:id="@+id/btnTurnOffDelay"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Namesti iskljucivanje"/>
+    <Button 
+        android:id="@+id/btnTurnOff"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Iskljuci racunar"/>
+    <Button 
+        android:id="@+id/btnOptions"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Opcije"
+        android:layout_marginTop="100"/>
+
+</LinearLayout>

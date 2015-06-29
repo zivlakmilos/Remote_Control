@@ -1,0 +1,5 @@
+INDEX VERSION 1.127+/home/milica/java/Remote_Control/RemoteControl1/.metadata/.plugins/org.eclipse.jdt.core
+4163810720.index
+4212543135.index
+2534369833.index
+1485712048.index
